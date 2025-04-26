@@ -4,6 +4,9 @@
 
 このリポジトリでは、二次関数に関する基本的な理解を深め、様々な計算やグラフの描画、式の変形などを通じて、二次関数に関する数学的なスキルを向上させることを目的としています。
 
+## 📚 目次
+
+- [第1章：二次関数の基礎](https://github.com/yukimasa0705/math_quadratic-functions/blob/main/math_quadratic_intro.ipynb)  
 ## 学習のステップ
 
 1. **二次関数の基礎**
