@@ -7,7 +7,8 @@
 ## 📚 目次
 
 - [第1章：二次関数の基礎](https://github.com/yukimasa0705/math_quadratic-functions/blob/main/math_quadratic_intro.ipynb)
-- [第2章：二次関数の最大・最小](https://github.com/yukimasa0705/math_quadratic-functions/blob/main/math_quadratic_max_min.ipynb)   
+- [第2章：二次関数の最大・最小](https://github.com/yukimasa0705/math_quadratic-functions/blob/main/math_quadratic_max_min.ipynb)
+- [第3章：二次関数の応用](https://github.com/yukimasa0705/math_quadratic-functions/blob/main/quadratic_motion_application.ipynb)   
 ## 学習のステップ
 
 1. **二次関数の基礎**
